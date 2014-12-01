@@ -1,0 +1,2 @@
+C:\Users\thomi\Workspace\Ultratap\Ultratap\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\thomi\Workspace\Ultratap\Ultratap\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt

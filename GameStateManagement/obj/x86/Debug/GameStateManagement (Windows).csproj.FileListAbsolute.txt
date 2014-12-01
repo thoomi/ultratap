@@ -1,0 +1,6 @@
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb

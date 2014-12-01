@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>AppThumb.png</SmallAppTile>
+  <LargeAppTile>Background.png</LargeAppTile>
+  <PCAppTile>AppHupThumb.png</PCAppTile>
+  <ScreenShots>Mainmenu.png;leaderboard.png;level1.png;level5.png;level8.png;level9.png;level10.png;level11.png;</ScreenShots>
+</MarketplaceDetails>

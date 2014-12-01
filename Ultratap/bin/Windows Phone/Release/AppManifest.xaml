@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Ultratap" EntryPointType="Ultratap.Ultratap" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Ultratap" Source="Ultratap.dll" />
+    <AssemblyPart x:Name="GameStateManagement" Source="GameStateManagement.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gameElements\blank.png</Source>
+      <Name>gameElements\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\gameElements\blank.xnb</Output>
+      <Time>2010-09-15T22:43:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameElements\gradient.png</Source>
+      <Name>gameElements\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\gameElements\gradient.xnb</Output>
+      <Time>2010-09-15T22:43:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameElements\playerball.png</Source>
+      <Name>gameElements\playerball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\gameElements\playerball.xnb</Output>
+      <Time>2012-04-27T19:06:47.5856481+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameElements\aim.png</Source>
+      <Name>gameElements\aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\gameElements\aim.xnb</Output>
+      <Time>2012-03-24T11:03:09.4087077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level\basic_level.png</Source>
+      <Name>level\basic_level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\basic_level.xnb</Output>
+      <Time>2012-04-16T16:55:35.3605691+02:00</Time>
+    </Item>
+    <Item>
+      <Source>nextlevel.png</Source>
+      <Name>nextlevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\nextlevel.xnb</Output>
+      <Time>2012-03-30T12:53:13.389261+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level7.png</Source>
+      <Name>level\level7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level7.xnb</Output>
+      <Time>2012-04-17T21:25:14.6273889+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\rotor.png</Source>
+      <Name>level\rotor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\rotor.xnb</Output>
+      <Time>2012-04-17T21:30:38.8895584+02:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background2.png</Source>
+      <Name>backgrounds\background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\backgrounds\background2.xnb</Output>
+      <Time>2012-05-03T11:30:13.1729456+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level3_obstacle.png</Source>
+      <Name>level\level3_obstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level3_obstacle.xnb</Output>
+      <Time>2012-04-11T19:56:46.7812251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level5_obs_down.png</Source>
+      <Name>level\level5_obs_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level5_obs_down.xnb</Output>
+      <Time>2012-04-12T14:58:49.630591+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level5_obs_up.png</Source>
+      <Name>level\level5_obs_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level5_obs_up.xnb</Output>
+      <Time>2012-04-12T14:57:27.4704759+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\rect100x250.png</Source>
+      <Name>level\rect100x250</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\rect100x250.xnb</Output>
+      <Time>2012-04-16T17:12:17.3877275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level4.png</Source>
+      <Name>level\level4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level4.xnb</Output>
+      <Time>2012-04-16T21:03:51.3733604+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\raute.png</Source>
+      <Name>level\raute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\raute.xnb</Output>
+      <Time>2012-04-16T20:51:33.6773115+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level8.png</Source>
+      <Name>level\level8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level8.xnb</Output>
+      <Time>2012-04-18T17:24:26.5735529+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\rect200x500.png</Source>
+      <Name>level\rect200x500</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\rect200x500.xnb</Output>
+      <Time>2012-04-18T17:28:37.2503932+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\rotor300x300.png</Source>
+      <Name>level\rotor300x300</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\rotor300x300.xnb</Output>
+      <Time>2012-04-19T20:57:05.8316577+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level9.png</Source>
+      <Name>level\level9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level9.xnb</Output>
+      <Time>2012-04-23T09:08:08.0412114+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\rect250x100.png</Source>
+      <Name>level\rect250x100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\rect250x100.xnb</Output>
+      <Time>2012-04-20T14:42:09.6387531+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\zickzack250x500.png</Source>
+      <Name>level\zickzack250x500</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\zickzack250x500.xnb</Output>
+      <Time>2012-04-23T09:07:42.3411755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\circle280.png</Source>
+      <Name>level\circle280</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\circle280.xnb</Output>
+      <Time>2012-04-24T22:57:42.0850118+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\rescueRing.png</Source>
+      <Name>level\rescueRing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\rescueRing.xnb</Output>
+      <Time>2012-04-24T22:55:26.3948218+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\zickzack800x400.png</Source>
+      <Name>level\zickzack800x400</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\zickzack800x400.xnb</Output>
+      <Time>2012-04-25T14:37:26.5154243+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\circle200.png</Source>
+      <Name>level\circle200</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\circle200.xnb</Output>
+      <Time>2012-04-25T15:35:05.492796+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level\level11.png</Source>
+      <Name>level\level11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\level\level11.xnb</Output>
+      <Time>2012-04-25T15:20:00.0138513+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\menufont.spritefont</Source>
+      <Name>fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\fonts\menufont.xnb</Output>
+      <Time>2012-04-27T11:45:30.2280126+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\gamefont.spritefont</Source>
+      <Name>fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\fonts\gamefont.xnb</Output>
+      <Time>2012-03-21T21:09:43.1133494+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\iron-man.mp3</Source>
+      <Name>sounds\iron-man</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\sounds\iron-man.xnb</Output>
+      <Extra>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\sounds\iron-man.wma</Extra>
+      <Time>2012-04-01T13:35:55.8642203+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{44459A75-F2CF-4B58-89EA-79154AF5C1AF}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\thomi\Workspace\Ultratap\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\thomi\Workspace\Ultratap\Ultratap\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\thomi\Workspace\Ultratap\Ultratap\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\thomi\Workspace\Ultratap\Ultratap\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-16T13:37:58.4842413+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

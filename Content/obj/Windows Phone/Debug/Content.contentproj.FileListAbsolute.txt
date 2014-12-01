@@ -1,0 +1,2 @@
+C:\Users\thomi\Workspace\TabMaze\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\thomi\Workspace\Ultratap\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

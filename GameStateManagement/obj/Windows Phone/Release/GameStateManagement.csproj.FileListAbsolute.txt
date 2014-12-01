@@ -1,0 +1,12 @@
+C:\Users\thomi\Workspace\TabMaze\GameStateManagement\bin\Windows Phone\Release\GameStateManagement.dll
+C:\Users\thomi\Workspace\TabMaze\GameStateManagement\bin\Windows Phone\Release\GameStateManagement.pdb
+C:\Users\thomi\Workspace\TabMaze\GameStateManagement\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\thomi\Workspace\TabMaze\GameStateManagement\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\thomi\Workspace\TabMaze\GameStateManagement\obj\Windows Phone\Release\GameStateManagement.dll
+C:\Users\thomi\Workspace\TabMaze\GameStateManagement\obj\Windows Phone\Release\GameStateManagement.pdb
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\bin\Windows Phone\Release\GameStateManagement.dll
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\bin\Windows Phone\Release\GameStateManagement.pdb
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\Windows Phone\Release\GameStateManagement.dll
+C:\Users\thomi\Workspace\Ultratap\GameStateManagement\obj\Windows Phone\Release\GameStateManagement.pdb

@@ -1,0 +1,6 @@
+C:\Users\thomi\Downloads\TabMaze\GameStateManagement\bin\Windows Phone\Debug\GameStateManagement.dll
+C:\Users\thomi\Downloads\TabMaze\GameStateManagement\bin\Windows Phone\Debug\GameStateManagement.pdb
+C:\Users\thomi\Downloads\TabMaze\GameStateManagement\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\thomi\Downloads\TabMaze\GameStateManagement\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\thomi\Downloads\TabMaze\GameStateManagement\obj\Windows Phone\Debug\GameStateManagement.dll
+C:\Users\thomi\Downloads\TabMaze\GameStateManagement\obj\Windows Phone\Debug\GameStateManagement.pdb
